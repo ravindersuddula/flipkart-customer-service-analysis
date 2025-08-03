@@ -76,4 +76,4 @@ While CSAT scores remain largely consistent across query types, channels, and SL
 
 ## 👋 Author
 **Ravinder Suddula**  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/ravindersuddula) | Explore more at [GitHub](https://github.com/ravindersuddula)
+[LinkedIn](https://www.linkedin.com/in/ravindersuddula) |  [GitHub](https://github.com/ravindersuddula)
