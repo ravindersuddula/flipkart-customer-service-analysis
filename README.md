@@ -1,4 +1,4 @@
-# flipkart-customer-service-analysis
+# Flipkart-customer-service-analysis
 Customer service data analysis to improve retention at Flipkart using Excel
 
 # 📞 Flipkart Customer Service Analysis – Excel Dashboard Project
